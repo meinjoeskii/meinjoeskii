@@ -1,7 +1,7 @@
 # Hi there, I'm Joe! 👋
 
 ### 🚀 Junior Full-Stack Developer
-I’m a developer who enjoys building robust, logic-heavy systems. With a year of experience under my belt navigating the complexities of payroll system, I’m now focusing on mastering modern web frameworks and building my own projects.
+I’m a developer who enjoys building robust, logic-heavy systems and finding new bugs (Yes, it's like treasure hunting for me). I’m now focusing on mastering modern web frameworks and building my own projects.
 
 ---
 
@@ -22,7 +22,7 @@ I’m a developer who enjoys building robust, logic-heavy systems. With a year o
 ---
 
 ### 🏗️ Current Project
-**[Stockaroo](https://github.com/meinjoeskii/stockarooweb)** I'm currently building a **Progressive Web App (PWA)** for stock management. It's designed to be fast, offline-capable, and efficient—merging my love for clean backend logic with a mobile-first user experience.
+**[Stockaroo](https://github.com/meinjoeskii/stockarooweb)** I'm currently building a **Progressive Web App (PWA)** for stock management system. It's designed to be fast, simple and efficient—merging my love for clean backend logic with a mobile-first user experience. Also trying to figure out how to get the barcode scanner to work on PAW Web Apps better so that it can actually scan those freaking product barcodes. 
 
 ---
 
