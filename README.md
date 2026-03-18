@@ -22,7 +22,7 @@ I’m a developer who enjoys building robust, logic-heavy systems and finding ne
 ---
 
 ### 🏗️ Current Project
-**[Stockaroo](https://github.com/meinjoeskii/stockarooweb)** I'm currently building a **Progressive Web App (PWA)** for stock management system. It's designed to be fast, simple and efficient—merging my love for clean backend logic with a mobile-first user experience. Also trying to figure out how to get the barcode scanner to work on PAW Web Apps better so that it can actually scan those freaking product barcodes. 
+**[Stockaroo](https://github.com/meinjoeskii/stockarooweb)** I'm currently building a **Progressive Web App (PWA)** for stock management system. It's designed to be fast, simple and efficient. Also trying to figure out how to get the barcode scanner to work on PAW Web Apps better so that it can actually scan those freaking product barcodes. 
 
 ---
 
